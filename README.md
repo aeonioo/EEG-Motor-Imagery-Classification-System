@@ -21,7 +21,7 @@ Accurate classification of motor imagery is a critical step toward developing re
 
 Motor imagery is the mental simulation of movement without performing any physical action. When a person imagines moving a limb, the brain produces distinct electrical patterns similar to actual movement. These signals can be recorded using EEG sensors placed on the scalp.
 
-image
+![banner](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F11352499%2Ff95e168febc6d07008b8d4adf1991131%2FScreenshot%202023-09-17%20155842.png?generation=1694946583070778&alt=media)
 
 ### Purpose of the Project
 
